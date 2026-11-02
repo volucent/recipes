@@ -7,6 +7,10 @@ Recipes for high-protein bulk meal prep. Mediterranean and Mexican style. Chicke
 - [Harissa Lime Chicken with Pineapple Salsa](recipes/harissa-lime-chicken.md) — sheet-pan or Instant Pot bulk prep with herb yogurt sauce
 - [Mediterranean Chicken with Sumac Salad](recipes/mediterranean-chicken-sumac.md) — cast-iron chicken breast with dill yogurt sauce
 
+### Ninja Creami
+
+- [Chocolate Peanut Butter Protein Ice Cream](recipes/ninja-creami/chocolate-peanut-butter-protein.md) — Fairlife chocolate milk, protein powder, PB powder
+
 ## Preferences
 
 - High protein
