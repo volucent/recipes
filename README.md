@@ -9,6 +9,8 @@ Recipes for high-protein bulk meal prep. Mediterranean and Mexican style. Chicke
 
 ### Ninja Creami
 
+Built for the Ninja Creami XL — read [CONTEXT.md](recipes/ninja-creami/CONTEXT.md) first.
+
 - [Chocolate Peanut Butter Protein Ice Cream](recipes/ninja-creami/chocolate-peanut-butter-protein.md) — Fairlife chocolate milk, protein powder, PB powder
 - [Chocolate Cottage Cheese Protein Ice Cream](recipes/ninja-creami/chocolate-cottage-cheese-protein.md) — regular milk, cottage cheese, Thorne protein; no cream
 
